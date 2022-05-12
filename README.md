@@ -1,4 +1,8 @@
-# reading-notes
+# reading-note
+HI !IM STEPHANIE 
+
+a current student
+
 **WORK/STUDY MATERIALS**
 
 ### GROWTH MINDED
@@ -17,8 +21,7 @@
 (https://images.app.goo.gl/2tsCNcGCN7rpkuSQ6)
 
 
-This site was built using [GitHub Pages]
-(https://pages.github.com/)
+{chek out profile here}(github.com/BURSTEP)
 
 :EMOJICODE:.
 @octocat 👍
