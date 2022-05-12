@@ -21,7 +21,9 @@ a current student
 (https://images.app.goo.gl/2tsCNcGCN7rpkuSQ6)
 
 
-[chek out profile here](https://github.com/BURSTEP)
+[chek out profile here]
+(https://github.com/BURSTEP)
+
 
 :EMOJICODE:.
 @octocat 👍
