@@ -1,1 +1,6 @@
-
+- cd
+- cd ..
+- ls 
+- pwd
+- mkdir
+- touch creates a file not a folder
