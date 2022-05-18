@@ -14,7 +14,7 @@
 
 
 
-
+Check out for helpful tips https://ryanstutorials.net/linuxtutorial/aboutfiles.php
 
 
 
