@@ -1,5 +1,5 @@
 # TEXT EDITOR
-**Is just one type of various computer programs that edits plain text.**
+**Is just one of the various types of computer programs(software)that edits plain text.**
 
 # Three Top things you will want to consider before choosing which editor to use
  - Directly Related to Specific Computer Operating System (e.g LINUX/WINDOWS)
