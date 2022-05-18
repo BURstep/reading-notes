@@ -7,14 +7,13 @@
  - User's Usage/Accessibility
 
 
+##BASIC NAVIGATIONS FOR TERMINAL
+
+for helpful tip for Linux https://ryanstutorials.net/linuxtutorial/navigation.php
 
 
+ for helpful tips for Linux  https://ryanstutorials.net/linuxtutorial/aboutfiles.php
 
-
-
-
-
-Check out for helpful tips https://ryanstutorials.net/linuxtutorial/aboutfiles.php
 
 
 
