@@ -28,6 +28,11 @@
 There are thousands of other text editors available 
 The examples above were provided by :https://www.computerhope.com/jargon/e/editor.htm
 
+## Key Terms and meaning
+- Command Line:Where you input the command
+-  Terminal:Runs the command that was sent from the command line
+- Files:Stores Data e.g:Documents,folders,directories,etc.
+
 
 Resources provided from class2 these extra tools are useful for LINUX
 - *Command Line*
@@ -36,10 +41,12 @@ Resources provided from class2 these extra tools are useful for LINUX
 - https://ryanstutorials.net/linuxtutorial/navigation.php
 - *FILE SYSTEM*
 - https://ryanstutorials.net/linuxtutorial/aboutfiles.php
+- 
+- zsh command cheat sheet
+- https://www.sitepoint.com/zsh-commands-plugins-aliases-tools/
 
-
-
-
+- wsl command cheat sheet
+- https://docs.microsoft.com/en-us/windows/wsl/basic-commands
 
 
 *"COMMAND LINE CODES USED OFTEN UNIVERSALLY ACROSS OPERATING SYSTEMS"*
