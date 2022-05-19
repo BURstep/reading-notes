@@ -29,9 +29,9 @@ There are thousands of other text editors available
 The examples above were provided by :https://www.computerhope.com/jargon/e/editor.htm
 
 ## Key Terms and meaning
-- Command Line:Where you input the command
--  Terminal:Runs the command that was sent from the command line
-- Files:Stores Data e.g:Documents,folders,directories,etc.
+- Command Line: Where you input the command (sends command to Treminal)
+-  Terminal: Runs the command that was sent from the command line (receives & processess commands)
+- Files: Stores Data e.g:Documents,folders,directories,etc. ( stores any data you've saved and store in a container)
 
 
 *Resources provided from class2 these extra tools are useful for LINUX*
