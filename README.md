@@ -15,7 +15,14 @@ Currently I'm a code fellow 102 student
  - ACCEPTING CHANGE AND ADPATING TO THE CHANGES
 
 ## Display of a few skills obtained in this class so for
+ -1. add images
+  - 2. add links
+  - 3.add URL
+  - and a few other skils 
 
+*check out below* 
+ 
+  
 ![This is an image]
 (https://images.app.goo.gl/ZxSKCZPbyiG6i8)
 
