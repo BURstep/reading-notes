@@ -1,7 +1,9 @@
 ## Reading-notes
 
 Hello everyone I'd like to introduce myself
+
 I'm *STEPHANIE*
+
 Currently I'm a code fellow 102 student
 
 ### GROWTH MINDED
