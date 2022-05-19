@@ -1,19 +1,18 @@
-# reading-note
-HI !IM STEPHANIE 
+## Reading-notes
 
-a current student
-
-**WORK/STUDY MATERIALS**
+Hello everyone I'd like to introduce myself
+I'm *STEPHANIE*
+Currently I'm a code fellow 102 student
 
 ### GROWTH MINDED
+**Is having the mindset to push through no matter what!!!!!!**
 
 ***DAILY TOOLS TO STAY GRWOTH MINDED***
->NEVER GIVE UP
->
->REMEMBER WHERE YOU STARTED AND WHERE YOUR GOING
->
->ACCEPTING CHANGE AND ADPATING TO THE CHANGES
+ - NEVER GIVE UP
+ - REMEMBER WHERE YOU STARTED AND WHERE YOUR GOING
+ - ACCEPTING CHANGE AND ADPATING TO THE CHANGES
 
+## Display of a few skills obtained in this class so for
 
 ![This is an image]
 (https://images.app.goo.gl/ZxSKCZPbyiG6i8)
