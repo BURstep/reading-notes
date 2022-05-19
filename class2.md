@@ -34,7 +34,7 @@ The examples above were provided by :https://www.computerhope.com/jargon/e/edito
 - Files:Stores Data e.g:Documents,folders,directories,etc.
 
 
-Resources provided from class2 these extra tools are useful for LINUX
+*Resources provided from class2 these extra tools are useful for LINUX*
 - *Command Line*
 - https://ryanstutorials.net/linuxtutorial/commandline.php
 - *NAVGATING TERMINAL*
@@ -42,12 +42,11 @@ Resources provided from class2 these extra tools are useful for LINUX
 - *FILE SYSTEM*
 - https://ryanstutorials.net/linuxtutorial/aboutfiles.php
 - 
-- zsh command cheat sheet
+ # command line cheat sheets for zsh shell and wsl shell
+ - zsh command cheat sheet
 - https://www.sitepoint.com/zsh-commands-plugins-aliases-tools/
-
 - wsl command cheat sheet
 - https://docs.microsoft.com/en-us/windows/wsl/basic-commands
-
 
 *"COMMAND LINE CODES USED OFTEN UNIVERSALLY ACROSS OPERATING SYSTEMS"*
 - cd
